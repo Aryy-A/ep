@@ -13,9 +13,9 @@ Pacotes = [
  codecs.decode('021efd40', 'hex_codec'),
  codecs.decode('081e7eda', 'hex_codec')]
 print ' \x1b[1m\x1b[31m========================================='
-print ' ==TOOLS BY HAN=='
+print ' ==TOOLS BY Mr.X=='
 print ' ========================================='
-print ' MEMEK IP %s DAN MEMBERI KOPI KE PORT %s             ' % (orgip, port)
+print ' NOH IP %s DAN MEMBERI PHAKET KE PORT %s             ' % (orgip, port)
 
 class MyThread(threading.Thread):
 
